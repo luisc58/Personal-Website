@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import NProgress from 'nprogress';
 import React from 'react';
 import 'nprogress/nprogress.css';
-import Pdf from '../static/luis_castillo_resume .pdf';
+import Pdf from '../static/luis_castillo_resume_1.pdf';
 
 const StyledHeader = styled.header`
     display:grid;
