@@ -18,9 +18,10 @@ const StyledSection = styled.section`
         padding: 0 2rem;
         grid-template-columns: auto ;
         img { margin: 0 auto; height: 14rem; }
+        p { font-size: 0.5rem;}
     }
     @media (max-width: 500px) {
-        padding: 0;
+        padding: 3rem 0;
         grid-template-columns: auto ;
         img { margin: 0 auto; height: 12rem; }
     }
@@ -40,6 +41,15 @@ const Info = styled.div`
         color:white;
         font-size:1.2rem;
         padding: 0.8rem 1.4rem;
+
+        @media (max-width: 710px) {
+         padding: 0.8rem 1rem;
+         font-size: 1rem;
+    }
+    }
+
+    @media (max-width: 710px) {
+        p { font-size: 1.1rem;}
     }
 `;
 

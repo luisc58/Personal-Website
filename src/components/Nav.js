@@ -20,10 +20,12 @@ const Logo = styled.h1`
     }
 
     @media (max-width: 700px) {
+        a { padding: 0.8rem 1.5rem;}
         font-size: 1.1rem; 
     }
     @media (max-width: 425px) {
-        font-size: 0.8rem; 
+       
+        font-size: 0.6rem; 
     }
 `;
 
@@ -43,7 +45,8 @@ const Resume = styled.h1`
     }
     @media (max-width: 425px) {
         a {
-            padding: 0.8rem 1rem;
+            font-size: 0.8rem;
+            padding: 0.6rem 1rem;
         }
     }
      
