@@ -43,9 +43,9 @@ const Info = styled.div`
         padding: 0.8rem 1.4rem;
 
         @media (max-width: 710px) {
-         padding: 0.8rem 1rem;
-         font-size: 1rem;
-    }
+             padding: 0.8rem 1rem;
+            font-size: 1rem;
+        }
     }
 
     @media (max-width: 710px) {
@@ -78,8 +78,8 @@ const About = () => (
                 currently studying at 
                 <span> The City College of New York. </span>
                 I’m a proud Dreamer pursuing a career in Software 
-                engineering in the hopes of bringing modern infrascture 
-                to undeserved communities around the world. On my free time I like to play sports and video games </p>
+                engineering in the hopes of bringing modern infrastructure 
+                to undeserved communities around the world. On my free time I like to play sports and video games. </p>
             <a href="mailto:luis.scholars@gmail.com" className="getInTouch">Get in Touch</a>
         </Info>
     </StyledSection>
