@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/site/static/media/luis_castillo_resume_1.5cf19918.pdf"
   },
   {
-    "revision": "0e6102782692060282c1",
+    "revision": "4524c89edbc80997e314",
     "url": "/site/static/css/main.3a5d30e5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/site/static/js/runtime~main.5571d524.js"
   },
   {
-    "revision": "0e6102782692060282c1",
-    "url": "/site/static/js/main.0e610278.chunk.js"
+    "revision": "4524c89edbc80997e314",
+    "url": "/site/static/js/main.4524c89e.chunk.js"
   },
   {
     "revision": "f4b50e165be8058fec9d30105c40a360",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/site/static/css/1.0dabb13e.chunk.css"
   },
   {
-    "revision": "b1e978f19a1008962971c2962631e926",
+    "revision": "769aa2a940590fc36bf50bc18ad2597f",
     "url": "/site/index.html"
   }
 ];
